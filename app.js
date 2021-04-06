@@ -12,7 +12,7 @@ var Bot		= require("./bot");
 	Edit those variables
 */
 
-const testMode	= false;	// True: Ignore what day/time it is & will open buy-stop & sell-stop positions on all pairs
+const testMode	= true;	// True: Ignore what day/time it is & will open buy-stop & sell-stop positions on all pairs
 
 // Oanda API Key
 
